@@ -1,0 +1,20 @@
+/* Schedule Tool - CSS */
+* { border: 0; font-family:Arial,Helvetica,sans-serif; margin: 0; padding: 0; position:relative; }
+html,body { position:relative; }
+body { background:#FFFFFF; font-family:Trebuchet MS,Sans-serif,Verdana,Tahoma,Arial,sans-serif; position:relative; margin:0px; }
+
+h1 {
+  font-size:30px;
+  margin:30px auto 0 auto;
+  width:300px;
+}
+
+p#result {
+  font-size:20px;
+  margin:30px auto 0 auto;
+  width:400px;
+}
+
+ul#right-menu {
+  display:block;
+}
